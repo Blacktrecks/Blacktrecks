@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blacktrecks
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...Html/Css
+- 🌱 I’m currently learning ...Html/Css/JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...www.blacktrecks.tk
 
