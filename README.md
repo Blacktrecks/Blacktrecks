@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blacktrecks
 - 👀 I’m interested in ...programming, computer sience and engineering.
-- 🌱 I’m currently learning C++/React, Linux and C#.
+- 🌱 I’m currently learning C++,React, Linux and C#.
 - 💞️ I’m looking to collaborate on ... develop new ways to research.
 - 📫 How to reach me ...www.blacktrecks.tk
 
